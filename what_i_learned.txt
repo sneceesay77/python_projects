@@ -1,0 +1,8 @@
+learned list
+learned methods
+learned functions
+learned the f function
+learned standard lib
+learned loops
+learned modules
+learned files and exceptions 
