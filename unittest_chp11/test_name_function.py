@@ -1,5 +1,7 @@
 import unittest
+
 from name_function import get_formatted_name
+
 
 class NameTestClass(unittest.TestCase):
 

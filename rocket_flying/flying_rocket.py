@@ -1,7 +1,8 @@
 import sys
+
 import pygame
-from settings import Settings
 from rocket import Rocket
+from settings import Settings
 
 
 class FlyingRocket:

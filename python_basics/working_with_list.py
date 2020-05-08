@@ -41,7 +41,9 @@ for value in range(1,11):
     cube_list.append(value**3)
 print(cube_list)
 
+#List comphrension
 cube_list_lc = [value**3 for value in range(1,11)]
+
 print(cube_list_lc)
 print(cube_list[0:3])
 print(cube_list[:5])

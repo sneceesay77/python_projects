@@ -1,5 +1,6 @@
-from random import randint
 from random import choice
+from random import randint
+
 
 class Dice:
     def __init__(self, side=6):

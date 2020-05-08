@@ -1,5 +1,6 @@
-import simple_module as sm
 from simple_module import club_entry as ce
+import simple_module as sm
+
 ce(20)
 
 my_tuple = tuple(range(1, 21))

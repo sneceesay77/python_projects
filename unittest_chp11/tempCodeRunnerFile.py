@@ -1,5 +1,7 @@
-from city_functions import city_country
 import unittest
+
+from city_functions import city_country
+
 
 class TestCities(unittest.TestCase):
     def test_city_country(self):
